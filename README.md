@@ -2,8 +2,10 @@
 
     This is an school project of 5 students.
     I implemented the gameplay side of this Top-down shooter game.
-    You can see my name at credits page.
-    
+
+ Credits: 
+ 
+![image](https://user-images.githubusercontent.com/76924597/154798057-f0d5907d-7bf6-4fe9-924d-7534c0b98c4b.png)
     
  [Main Repository of Project](https://github.com/ayroh/CSE343-Unity-Project)
  
