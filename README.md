@@ -1,6 +1,6 @@
 # Shooter-Impact-Mobile-Game
 
-    This is an school project of 5 students.
+    This is a school project of 5 students.
     I implemented the gameplay side of this Top-down shooter game.
 
  Credits: 
